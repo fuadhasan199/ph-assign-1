@@ -30,13 +30,60 @@ nav{
     margin: 0 150px;
     align-items: center;
 } 
-.header-box{
-    margin-top:;
-}
+
+
 .header-box,h1{
     font-weight: bold;
     font-size: 50px;
     color: #252432;
     text-align: center;
     margin: 0 200px;
+} 
+.action-section{
+    background-color: #dddcf0;
+    
+    border-radius: 10px;
+   
+    align-items: center;
+    width: 1140px;
+    height: 306px;
+    margin: 50px auto;
+
+} 
+.action-50k{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+     align-items: center;
 }
+.action-section h2{
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+     text-align: center;
+     margin-bottom: 40px;
+     padding: 5px;
+}
+ 
+.action-section .action-50k .title {
+  font-size: 60px; 
+  font-weight: bold;
+  color: #3b4bff;
+  margin: 0;
+}
+.action-section .action-50k p{
+    font-size:20px;
+    font-weight: 400;
+    color: #000000;
+} 
+.action-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    
+}
+
+
+
+
