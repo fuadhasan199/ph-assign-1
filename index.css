@@ -218,8 +218,29 @@ nav{
 .section-6-img{
     margin-top: 20px;
     border-radius: 50px;
+} 
+
+
+.section-7-heading{
+    font-size: 70px;
+    font-weight: bold;
+    color: #000000;
 }
 
+.section-7{
+    width: 800px;
+    height: 600px;
+    margin: 90px auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between; 
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
 
 
 
