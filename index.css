@@ -13,7 +13,7 @@ body{
 
 .header{ 
     background-image: url('../B12A01-landing-launchpad/Assets/Hero-bg.png');
-    padding: 10px;
+  padding: 10px 5px;
 }
 .logo{
     color:#4E47FF;
@@ -182,6 +182,42 @@ nav{
 .section-5-review small {
   font-size: 12px;
   color: #494646;
+} 
+
+
+
+.section-6{ 
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 700px;
+    height: 500px;
+    margin: 0 auto;
+    border-radius: 14px;
+   
+} 
+.section-6-heading{
+    font-size: 40px;
+    font-weight: bold;
+    padding: 5px;
+    color: #000000;
+} 
+.section-6-distribute{ 
+    font-size: 12px;
+    color: rgb(75, 71, 71);
+    font-weight: 200;
+    margin-top: 5px;
+
+}
+.sec-6-btn{
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.section-6-img{
+    margin-top: 20px;
+    border-radius: 50px;
 }
 
 
